@@ -1,4 +1,4 @@
-code = files('module.m')
+code = files('module.mm')
 
 if host_machine.system() == 'darwin'
   dep = dependency('appleframeworks', modules : 'Foundation')
