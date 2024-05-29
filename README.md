@@ -25,7 +25,7 @@ Before getting started, make sure you have the following installed:
    # ======================
    [wrap-git]
    url = https://github.com/fossil-lib/tscl-<name>-objcpp.git
-   revision = v2.4.3
+   revision = v1.0.0
 
    [provide]
    fscl-<name>-cpp = fscl_<name>_objcpp_dep
